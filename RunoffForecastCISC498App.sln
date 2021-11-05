@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunoffForecastCISC498App", "RunoffForecastCISC498\RunoffForecastCISC498App.csproj", "{4121D908-01E3-4599-821B-CADF445A332E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunoffForecastCISC498AppData", "RunoffForecastCISC498AppData\RunoffForecastCISC498AppData.csproj", "{2B0ECB1F-E39D-4669-9447-E5D644D84FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4121D908-01E3-4599-821B-CADF445A332E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4121D908-01E3-4599-821B-CADF445A332E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4121D908-01E3-4599-821B-CADF445A332E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4121D908-01E3-4599-821B-CADF445A332E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0ECB1F-E39D-4669-9447-E5D644D84FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0ECB1F-E39D-4669-9447-E5D644D84FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0ECB1F-E39D-4669-9447-E5D644D84FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0ECB1F-E39D-4669-9447-E5D644D84FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9310A9D-F1E0-4D7B-A5CC-3B47C6EA98D3}
+	EndGlobalSection
+EndGlobal
